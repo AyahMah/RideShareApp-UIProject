@@ -2,7 +2,7 @@
 
 A ride share app user interface design project.
 
-https://user-images.githubusercontent.com/98179170/189500148-3abc31b2-4ddf-4da0-b1b2-78573ca1918e.mp4
+https://user-images.githubusercontent.com/98179170/189710694-f6c2fd34-a36b-4134-8711-8599b2c4ba00.mp4
 
 The initial stages of the project discussed and analysed stakeholders, target market, opportunities, competition, and usage situations for the app. 
 This was followed by a user survey which aimed at determining what features the users wanted in the app and which ones were not preferred. 
